@@ -20,7 +20,7 @@ I am currently preparing for Ph.D. applications and looking for research opportu
 
 ## 🚀 Selected Research Projects
 
-### Scene Parsing and Geometric Vision — Two-Stream Interactive Joint Learning Framework  
+### [Scene Parsing and Geometric Vision — Two-Stream Interactive Joint Learning Framework](https://github.com/ljyLumos/TwInS-scene-geometric-vision) 
 
 I explored the interaction between scene parsing and geometric vision tasks, including semantic segmentation, instance segmentation, stereo matching, and optical flow.  
 The project studies how semantic context and geometric correspondence can mutually enhance each other through a two-stream interactive framework.
