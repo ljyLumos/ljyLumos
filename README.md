@@ -29,7 +29,7 @@ The project studies how semantic context and geometric correspondence can mutual
 
 ---
 
-### [Single-View 3D Occupancy Prediction and Spatial Perception — ViPOcc Framework](https://github.com/fengyi233/ViPOcc）
+### [Single-View 3D Occupancy Prediction and Spatial Perception — ViPOcc Framework](https://github.com/fengyi233/ViPOcc)
 
 I worked on monocular 3D occupancy prediction and spatial perception from RGB images, focusing on how visual priors, depth cues, and semantic information can improve 3D understanding under limited supervision.
 
