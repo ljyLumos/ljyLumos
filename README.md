@@ -4,7 +4,7 @@ I am an undergraduate student majoring in **Computer Science and Technology (Eli
 
 I am currently preparing for Ph.D. applications and looking for research opportunities in embodied intelligence, robot learning, spatial perception, and multimodal reasoning.
 
-[Personal Website](https://ljylumos.github.io/) · [Projects](https://ljylumos.github.io/projects/) · [Email](mailto:2351405@tongji.edu.cn)
+[Personal Website](https://ljylumos.github.io/) · [Email](mailto:2351405@tongji.edu.cn)
 
 ---
 
@@ -79,4 +79,3 @@ Conducted an **empirical study** on the **reliability and safety of LLM-based Ja
 
 - Email: [2351405@tongji.edu.cn](mailto:2351405@tongji.edu.cn)
 - Website: [https://ljylumos.github.io/](https://ljylumos.github.io/)
-- Projects: [https://ljylumos.github.io/projects/](https://ljylumos.github.io/projects/)
