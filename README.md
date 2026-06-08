@@ -29,7 +29,7 @@ The project studies how semantic context and geometric correspondence can mutual
 
 ---
 
-### Single-View 3D Occupancy Prediction and Spatial Perception — ViPOcc Framework
+### [Single-View 3D Occupancy Prediction and Spatial Perception — ViPOcc Framework](https://github.com/fengyi233/ViPOcc）
 
 I worked on monocular 3D occupancy prediction and spatial perception from RGB images, focusing on how visual priors, depth cues, and semantic information can improve 3D understanding under limited supervision.
 
@@ -37,7 +37,7 @@ I worked on monocular 3D occupancy prediction and spatial perception from RGB im
 
 ---
 
-### Dynamic Robot Navigation — Optimization of 2D LiDAR-Based Pedestrian Detection  
+### [Dynamic Robot Navigation — Optimization of 2D LiDAR-Based Pedestrian Detection](https://github.com/ljyLumos/lidar-pedestrian-navigation)
 
 I optimized a 2D LiDAR-based pedestrian detection module for dynamic robot navigation.  
 The project was integrated with a TD3-based navigation system in ROS and Gazebo, focusing on the coupling between perception and decision-making in dynamic environments.
