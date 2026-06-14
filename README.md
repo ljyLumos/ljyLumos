@@ -56,7 +56,7 @@ I reviewed recent works on vision-and-language navigation, focusing on instructi
 
 ### LLM Trustworthiness and Safety — Library Recommendation and Code Migration Quality Evaluation
 
-Conducted an **empirical study** on the **reliability and safety of LLM-based Java third-party library recommendation and usage generation**. The study built an evaluation pipeline based on Stack Overflow posts, Maven metadata, and vulnerability data, analyzing version recommendation, code usage generation, secure version migration, and security-aware Skill prompting. It further examined how security-aware prompts improve secure version statements, dependency-version consistency, and API compatibility.
+An **empirical study** on the **reliability and safety of LLM-based Java third-party library recommendation and usage generation**. The study built an evaluation pipeline based on Stack Overflow posts, Maven metadata, and vulnerability data, analyzing version recommendation, code usage generation, secure version migration, and security-aware Skill prompting. It further examined how security-aware prompts improve secure version statements, dependency-version consistency, and API compatibility.
 
 **Keywords:** LLM Reliability · Library Recommendation · Code Migration · Software Security
  · Empirical Study · Security-aware Prompting
