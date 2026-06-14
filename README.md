@@ -31,7 +31,7 @@ The project studies how semantic context and geometric correspondence can mutual
 
 ### [Single-View 3D Occupancy Prediction and Spatial Perception — ViPOcc Framework](https://github.com/fengyi233/ViPOcc)
 
-I worked on monocular 3D occupancy prediction and spatial perception from RGB images, focusing on how visual priors, depth cues, and semantic information can improve 3D understanding under limited supervision.
+Monocular 3D occupancy prediction and spatial perception from RGB images, with a focus on leveraging visual priors, depth cues, and semantic information to improve 3D understanding under limited supervision.
 
 **Keywords:** Autonomous Driving · 3D Occupancy · Spatial Understanding · Monocular Perception · Metric Depth
 
